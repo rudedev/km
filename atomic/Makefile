@@ -1,3 +1,6 @@
+
+CONFIG_MODULE_SIG=n
+
 obj-m += atomic.o
 
 KERNELDIR := /lib/modules/$(shell uname -r)/build

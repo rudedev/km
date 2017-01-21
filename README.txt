@@ -1,6 +1,8 @@
 Sample linux kernel modules for learning purposes
 
 Author : Prashant P Shah <pshah.mumbai@gmail.com>
+Checkout for learning and Editing - Rahul Rai 
+
 
 LICENSE :
 ---------
